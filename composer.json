@@ -1,0 +1,5 @@
+{
+    "require": {
+        "datatourisme/api": "^2.3"
+    }
+}
